@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/space.png</file>
+        <file>img/apple.png.png</file>
+        <file>img/dot.png.png</file>
+        <file>img/head.png.png</file>
+        <file>img/planet1.png.jpg</file>
+        <file>img/planet2.png.jpg</file>
+        <file>img/planet3.png.jpg</file>
+        <file>img/Daft-Punk-Veridis-Quo.mp3</file>
+    </qresource>
+    <qresource prefix="/music"/>
+</RCC>
